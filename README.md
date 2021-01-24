@@ -13,12 +13,12 @@ if not raise Exception with corresponding message <br>
 4. __ mul__(self, other_matrix) method should multiply current instance with matrix instanse that pass as argument <br>
 5. __ str__(self, other_matrix) method shuld return string of matrix as follows: <br>
 <br>
-
-`⌈ 1.60  3.1 42.34 ⌉
- |  4.0 5.00   6.9 |
- ⌊ 43.0  2.4  3.99 ⌋
- `
- <br> 
+<pre>
+⌈ 1.60  3.1 42.34 ⌉
+|  4.0 5.00   6.9 |
+⌊ 43.0  2.4  3.99 ⌋
+</pre>
+<br> 
  
 6. determinant() calculates determinant of matrix <br>
 7. inverse() calculate inverse of matrix <br>
