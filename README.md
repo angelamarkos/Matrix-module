@@ -14,9 +14,10 @@ if not raise Exception with corresponding message <br>
 5. __ str__(self, other_matrix) method shuld return string of matrix as follows: <br>
 <br>
 
-`⌈ 1.60  3.1 42.34 ⌉ <br>
- |  4.0 5.00   6.9 | <br>
- ⌊ 43.0  2.4  3.99 ⌋ <br>`
+`⌈ 1.60  3.1 42.34 ⌉
+ |  4.0 5.00   6.9 |
+ ⌊ 43.0  2.4  3.99 ⌋
+ `
  <br> 
  
 6. determinant() calculates determinant of matrix <br>
